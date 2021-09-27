@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@ant-design/icons": "4.5.0",
+    "@ant-design/icons": "4.7.0",
     "antd": "4.13.1",
     "concurrently": "6.0.0",
     "immer": "8.0.1",
