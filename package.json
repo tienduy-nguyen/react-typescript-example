@@ -33,7 +33,7 @@
     "@types/react-router-dom": "5.1.7",
     "@types/redux": "3.6.31",
     "@types/redux-thunk": "2.1.32",
-    "@types/styled-components": "5.1.7",
+    "@types/styled-components": "5.1.25",
     "@types/uuid": "8.3.0",
     "eslint-config-prettier": "8.1.0",
     "eslint-plugin-prettier": "3.3.1",
