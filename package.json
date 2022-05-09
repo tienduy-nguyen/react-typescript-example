@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@ant-design/icons": "4.5.0",
-    "antd": "4.13.1",
+    "antd": "4.20.3",
     "concurrently": "6.0.0",
     "immer": "8.0.1",
     "json-server": "0.16.3",
