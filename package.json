@@ -5,7 +5,7 @@
   "dependencies": {
     "@ant-design/icons": "4.5.0",
     "antd": "4.13.1",
-    "concurrently": "6.0.0",
+    "concurrently": "7.1.0",
     "immer": "8.0.1",
     "json-server": "0.16.3",
     "react": "17.0.1",
